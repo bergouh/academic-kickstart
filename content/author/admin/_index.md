@@ -71,5 +71,5 @@ interests = [
 
 +++
 
-I am a searcher in the MaIAGE team at INRA in Jouy-en-Josas, France. Currently and I am on leave at KAUST, KSA
+I am a searcher in the MaIAGE team at INRA in Jouy-en-Josas, France. Currently and I am on leave at KAUST, Thuwal, KSA
  
