@@ -33,7 +33,7 @@ date_format = "January 2006"
   company_url = "http://maiage.jouy.inra.fr/"
   location = "Paris"
   date_start = "2015-09-01"
-  date_end = "Present"
+  date_end = ""
   description = """I am seracher in the MaIAGE team at  INRA."""
 
 +++
