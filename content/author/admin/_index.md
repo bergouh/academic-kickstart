@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "El HouADELcine Bergou TEST"
+name = "El Houcine Bergou"
 
 # Is this the primary user of the site?
 superuser = true
@@ -71,5 +71,6 @@ interests = [
 
 +++
 
-I am a searcher in the MaIAGE team at INRA in Jouy-en-Josas, France. Currently and I am on leave at KAUST, Thuwal, KSA
+I am a searcher in the MaIAGE team at INRA in Jouy-en-Josas, France. Currently and I am on leave at KAUST, Thuwal, KSA, hosted by Peter Richtarik. I did my PhD at INPT, Toulouse, France, under the supervision of Serge Gratton in Algo team. I work on
+numerical methods for least squares, non convex optimization and data assimilation. I received the Masters degrees in 2011 from ENSTA ParisTech and Paris 1, where I studied Applied maths for finance.
  
