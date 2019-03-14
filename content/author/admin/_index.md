@@ -6,7 +6,7 @@ name = "El Houcine Bergou"
 superuser = true
 
 # Role/position
-role = "Searcher (chargé de recherche) at INRA. Currently I am on leave at KAUST"
+role = "Researcher (chargé de recherche) at INRA. Currently I am on leave at KAUST"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -71,6 +71,6 @@ interests = [
 
 +++
 
-I am a searcher in the MaIAGE team at INRA in Jouy-en-Josas, France. Currently I am on leave at KAUST, Thuwal, KSA, hosted by Peter Richtarik. I did my PhD at INPT, Toulouse, France, under the supervision of Serge Gratton in Algo team where I worked on
+I am a researcher in the MaIAGE team at INRA in Jouy-en-Josas, France. Currently I am on leave at KAUST, Thuwal, KSA, hosted by Peter Richtarik. I did my PhD at INPT, Toulouse, France, under the supervision of Serge Gratton in Algo team where I worked on
 numerical methods for least squares, non convex optimization and data assimilation. I received the Masters degrees in 2011 from ENSTA ParisTech and Paris 1, where I studied Applied maths for finance.
  
