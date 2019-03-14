@@ -34,6 +34,6 @@ date_format = "January 2006"
   location = "Paris"
   date_start = "2015-09-01"
   date_end = ""
-  description = """I am seracher in the MaIAGE team at  INRA."""
+  description = """I am reseracher in the MaIAGE team at  INRA."""
 
 +++
