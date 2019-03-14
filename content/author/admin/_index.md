@@ -21,7 +21,8 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Convex & Large-scale Optimization",
+  "Convex and non convex Optimization",
+  "Large-scale Optimization",
   "Data Assimilation"
 ]
 
