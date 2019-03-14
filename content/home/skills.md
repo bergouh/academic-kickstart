@@ -33,7 +33,15 @@ weight = 7
 #  icon_pack = "fas"
   icon = ""
   icon_pack = ""
-  name = "Probabily"
+  name = "Probabily theory"
+  #description = "10%"
+  
+  [[feature]]
+#  icon = "camera-retro"
+#  icon_pack = "fas"
+  icon = ""
+  icon_pack = ""
+  name = "Statistics"
   #description = "10%"
 
 +++
