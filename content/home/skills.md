@@ -21,14 +21,18 @@ weight = 7
  # name = "R"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
+#  icon = "chart-line"
+#  icon_pack = "fas"
+  icon = ""
+  icon_pack = ""
   name = "Numerical Optimization"
   #description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
+#  icon = "camera-retro"
+#  icon_pack = "fas"
+  icon = ""
+  icon_pack = ""
   name = "Probabily"
   #description = "10%"
 
